@@ -222,7 +222,7 @@ We're going to create `<div>` tags to group our content together. What is the di
 > </details>
 > <br>
 
-**Before you code:** All of the tags used to mark our HTML content will reside _between_ the opening and closing of the `<body>` tag. So for rest of the HTML tags you create, _make sure_ you place them _between_ `<body>` and `</body>` like so:
+/.**Before you code:** All of the tags used to mark our HTML content will reside _between_ the opening and closing of the `<body>` tag. So for rest of the HTML tags you create, _make sure_ you place them _between_ `<body>` and `</body>` like so:
 
 > ```HTML
 > <body>
